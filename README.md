@@ -22,3 +22,7 @@ ou
 
 ## vincular manualmente react-native-vector-icons
 ### `npx react-native link react-native-vector-icons`
+
+![interface](https://github.com/mariocesar33/ReactNative-navega-o-stack/blob/master/userform.png).
+
+![interface](https://github.com/mariocesar33/ReactNative-navega-o-stack/blob/master/userlist.png).
